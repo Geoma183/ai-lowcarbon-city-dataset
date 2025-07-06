@@ -54,7 +54,6 @@ You are free to share and adapt the materials, provided proper attribution.
 ## 🤝 Acknowledgements
 
 This work was supported by:
-- [Your Institution / Grant Number]
 - Research teams contributing to open-source science in AI & Urban Studies
 
 For inquiries or collaborations, contact: `05161935@cumt.edu.cn`
